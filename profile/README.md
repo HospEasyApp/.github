@@ -10,6 +10,16 @@ HospEasyApp helps connect patients, ambulance services, and hospitals through a 
 The goal is to reduce emergency response time and provide real-time visibility during critical situations.
 
 ---
+### 📑 Document Preview
+
+[![Project Documentation Preview](https://img.shields.io/badge/View-Project%20Doc-blue?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1HiiQKKJxcSKo8LnqWR-FdiyNAWg_dvEUWOdp3yKM1VI/edit?usp=sharing)
+
+### 🔗 API Collection
+
+You can explore and test the APIs using the Postman collection below:
+
+👉 [View Postman API Collection](https://bestindiandev-6797218.postman.co/workspace/Dileep-yadav's-Workspace~a6ad5af1-efee-4da3-8c7d-c8927fae33da/overview)
+
 
 ## 📱 Platforms Supported
 
@@ -72,18 +82,6 @@ We welcome contributions from the community.
 1. Fork the repository
 2. Create a new branch  
 
-## 📄 Project Documentation
 
-📘 **HospEasyApp – Project Documentation**
-
-You can view the complete project documentation, requirements, and workflows here:
-
-🔗 **[Open Google Doc](https://docs.google.com/document/d/1HiiQKKJxcSKo8LnqWR-FdiyNAWg_dvEUWOdp3yKM1VI/edit?usp=sharing)**
-
----
-
-### 📑 Document Preview
-
-[![Project Documentation Preview](https://img.shields.io/badge/View-Project%20Doc-blue?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1HiiQKKJxcSKo8LnqWR-FdiyNAWg_dvEUWOdp3yKM1VI/edit?usp=sharing)
 
 
